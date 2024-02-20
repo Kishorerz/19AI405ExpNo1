@@ -103,3 +103,5 @@ agent.perform_action("nothing")
 agent.print_status()
 
 ```
+## Output:
+![Output](<Screenshot 2024-02-20 221024.png>)
